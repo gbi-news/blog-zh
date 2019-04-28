@@ -10,7 +10,7 @@ BMLS 是一个[龙门资本](http://www.longmen.fund/)设计，由 GBI 团队实
 
 该指数的计算方法为：
 
-```latex
+```latex,autorun
 BMLS = 
   \frac{ Bitfinex\ 比特币保证金看多总额}{ Bitfinex\ 比特币保证金看空总额} 
   \times 100
